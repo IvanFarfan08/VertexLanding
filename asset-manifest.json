@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vertexlanding/static/css/main.e6c13ad2.css",
-    "main.js": "/vertexlanding/static/js/main.ff329152.js",
-    "static/js/592.72936bc8.chunk.js": "/vertexlanding/static/js/592.72936bc8.chunk.js",
-    "index.html": "/vertexlanding/index.html",
-    "main.e6c13ad2.css.map": "/vertexlanding/static/css/main.e6c13ad2.css.map",
-    "main.ff329152.js.map": "/vertexlanding/static/js/main.ff329152.js.map",
-    "592.72936bc8.chunk.js.map": "/vertexlanding/static/js/592.72936bc8.chunk.js.map"
+    "main.css": "/VertexLanding/static/css/main.e6c13ad2.css",
+    "main.js": "/VertexLanding/static/js/main.8e571cff.js",
+    "static/js/592.72936bc8.chunk.js": "/VertexLanding/static/js/592.72936bc8.chunk.js",
+    "index.html": "/VertexLanding/index.html",
+    "main.e6c13ad2.css.map": "/VertexLanding/static/css/main.e6c13ad2.css.map",
+    "main.8e571cff.js.map": "/VertexLanding/static/js/main.8e571cff.js.map",
+    "592.72936bc8.chunk.js.map": "/VertexLanding/static/js/592.72936bc8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ff329152.js"
+    "static/js/main.8e571cff.js"
   ]
 }
